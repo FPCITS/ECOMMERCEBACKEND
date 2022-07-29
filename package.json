@@ -1,0 +1,29 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": " Back end of an e-commerce site using MySQL2 & Sequelize.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node seeds/index.js"  
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FPCITS/ECOMMERCEBACKEND.git"
+  },
+  "author": "FPCIT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FPCITS/ECOMMERCEBACKEND/issues"
+  },
+  "homepage": "https://github.com/FPCITS/ECOMMERCEBACKEND#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "expres": "^0.0.5",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "seed": "^0.4.4",
+    "sequelize": "^6.21.3"
+  }
+}

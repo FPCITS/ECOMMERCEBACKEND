@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is to demonstrate our ability in utilizing node.js to create a README generator.
+This project is to demonstrate our ability in utilizing MySQL2, & Sequelize to build the back end of an e-commerce site.
 
 ![badge](https://img.shields.io/badge/license-MITLicense-brightorange)
 
@@ -20,13 +20,22 @@ This project is to demonstrate our ability in utilizing node.js to create a READ
     
   Follow these steps to install or run this application:
 
- Step 1: Launch your terminal. <br>
- Step 2: Navigate to the directory containing your .js file. <br>
- Step 3: Run your file using the "node index.js" command.
+ Step 1: Clone this repository. <br>
+ Step 2: Navigate to the repository at the root folder. <br>
+ Step 3: Run "npm init" command. <br>
+ Step 4: Run "npm install mysql2" command. <br>
+ Step 5: Run "npm install sequelize" command. <br>
+ Step 6: Run "npm install dotenv" command. 
       
 ## Usage
 
-  Here is a helpful video to follow: 
+ Step 1: Run "mysql -u root -p" at root folder. <br>
+ Step 2: When prompted, enter password. <br>
+ Step 3: Enter "source dv/schema.sql <br>
+ Step 4: Enter "quit" once rows confirmed as OK. <br>
+ Step 5: Run "npm run seed". <br>
+ Step 6: Run "npm start". 
+
       
 ## Contribution
 
