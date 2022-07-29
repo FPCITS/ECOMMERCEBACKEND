@@ -1,4 +1,4 @@
-# Professional README Generator
+# Backend E-Commerce
 
 ## Description
 
@@ -45,9 +45,7 @@ You can contribute to this project by:
       
 ## Testing
 
- Step 1: Launch your terminal. <br>
- Step 2: Navigate to the directory containing your .js file. <br>
- Step 3: Run your file using the "node index.js" command.
+ None Available
       
 ## Questions
       
